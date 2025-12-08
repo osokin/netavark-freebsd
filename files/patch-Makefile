@@ -1,0 +1,11 @@
+--- Makefile.orig	2025-11-12 12:34:41 UTC
++++ Makefile
+@@ -31,6 +31,8 @@ SOURCES = $(shell find src/ -type f) Cargo.toml Cargo.
+ 
+ SOURCES = $(shell find src/ -type f) Cargo.toml Cargo.lock Makefile
+ 
++CARGO_BUILD_RUSTFLAGS=	-D__BSD_VISIBLE
++
+ ifdef debug
+ $(info debug is $(debug))
+   # These affect both $(CARGO_TARGET_DIR) layout and contents
