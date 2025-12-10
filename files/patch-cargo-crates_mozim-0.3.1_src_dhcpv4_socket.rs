@@ -1,5 +1,5 @@
---- cargo-crates/mozim-0.3.0/src/dhcpv4/socket.rs.orig	2006-07-24 01:21:28 UTC
-+++ cargo-crates/mozim-0.3.0/src/dhcpv4/socket.rs
+--- cargo-crates/mozim-0.3.1/src/dhcpv4/socket.rs.orig	2006-07-24 01:21:28 UTC
++++ cargo-crates/mozim-0.3.1/src/dhcpv4/socket.rs
 @@ -173,6 +173,7 @@ impl DhcpV4Socket for DhcpRawSocket {
      }
  }

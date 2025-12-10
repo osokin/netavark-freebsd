@@ -104,7 +104,7 @@ CARGO_CRATES=	aho-corasick-1.1.4 \
 		memoffset-0.9.1 \
 		mime-0.3.17 \
 		mio-1.1.0 \
-		mozim-0.3.0 \
+		mozim-0.3.1 \
 		multimap-0.10.1 \
 		netlink-packet-core-0.8.1 \
 		netlink-packet-route-0.25.1 \
