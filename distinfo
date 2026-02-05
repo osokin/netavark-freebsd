@@ -1,4 +1,4 @@
-TIMESTAMP = 1765391076
+TIMESTAMP = 1770317517
 SHA256 (rust/crates/aho-corasick-1.1.4.crate) = ddd31a130427c27518df266943a5308ed92d4b226cc639f5a8f1002816174301
 SIZE (rust/crates/aho-corasick-1.1.4.crate) = 184015
 SHA256 (rust/crates/android_system_properties-0.1.5.crate) = 819e7219dbd41043ac279b19830f2efc897156490d7fd6ea916720117ee66311
@@ -485,5 +485,5 @@ SHA256 (rust/crates/zvariant_derive-5.8.0.crate) = da58575a1b2b20766513b1ec59d8e
 SIZE (rust/crates/zvariant_derive-5.8.0.crate) = 14336
 SHA256 (rust/crates/zvariant_utils-3.2.1.crate) = c6949d142f89f6916deca2232cf26a8afacf2b9fdc35ce766105e104478be599
 SIZE (rust/crates/zvariant_utils-3.2.1.crate) = 14678
-SHA256 (containers-netavark-v1.17.1_GH0.tar.gz) = 22cdaea57490014c8faf029d0e2d585d9fddcfcb35fc342f812ba79b27d5d3d1
-SIZE (containers-netavark-v1.17.1_GH0.tar.gz) = 182912
+SHA256 (containers-netavark-v1.17.2_GH0.tar.gz) = 284faa7cc525b869cbac4053e0a4127ac743ca7da1457c49fffb35558ea9c78d
+SIZE (containers-netavark-v1.17.2_GH0.tar.gz) = 183961
